@@ -33,7 +33,7 @@ public class MainActivity extends AppCompatActivity {
                 "30AN_mH5cg",
                 "Heronation"
         );
-
+        // Git 
         // 네이버 로그인 버튼 리스너 등록
         OAuthLoginButton naverLoginButton = (OAuthLoginButton) findViewById(R.id.button_naverlogin);
 
